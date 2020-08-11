@@ -1,0 +1,1 @@
+POLLS_INDEX_URL = 'polls:index'
